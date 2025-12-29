@@ -1,9 +1,8 @@
 # PDF-TOOLKIT
 A modern Windows desktop application for splitting, merging, converting, and extracting text from PDF files using Python.
+
+
 # PDF Toolkit
-
-A modern desktop application built with Python for working with PDF files.
-
 ## Features
 - Split PDF files into smaller parts
 - Merge multiple PDFs
