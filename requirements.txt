@@ -1,0 +1,5 @@
+customtkinter
+Pillow
+PyPDF2
+pdf2image
+pytesseract
