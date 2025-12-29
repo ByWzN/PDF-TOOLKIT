@@ -27,7 +27,7 @@ Built with **Python** and **CustomTkinter**, designed with a clean and modern UI
 
 ### ✅ Option 1: Download Executable (Recommended)
 1. Go to the **Releases** section
-2. Download `PDF Toolkit.exe`
+2. Download `PDF-Toolkit.exe`
 3. Run the application  
 ❌ No Python installation required
 
@@ -42,3 +42,42 @@ Built with **Python** and **CustomTkinter**, designed with a clean and modern UI
 #### Install dependencies
 ```bash
 pip install -r requirements.txt
+
+
+🔧 OCR Setup (Important)
+
+This app uses Tesseract OCR.
+
+Download Tesseract from:
+https://github.com/UB-Mannheim/tesseract/wiki
+
+Install it
+
+Add Tesseract to your system PATH
+(or set the path manually in the code if needed)
+
+Supported languages:
+
+English
+
+Arabic
+
+French
+
+Spanish
+
+German
+
+🧱 Built With
+
+Python
+
+CustomTkinter
+
+PyPDF2
+
+pdf2image
+
+pytesseract
+
+Pillow
