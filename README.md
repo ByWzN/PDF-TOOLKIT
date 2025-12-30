@@ -44,6 +44,11 @@ https://github.com/UB-Mannheim/tesseract/wiki
 
 After installation, make sure `tesseract` is added to your system PATH.
 
+
+If you use Arabic OCR:
+
+Install Arabic language pack during Tesseract install
+
 ---
 
 ### PDF to Image Conversion
