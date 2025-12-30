@@ -32,6 +32,31 @@ Built with **Python** and **CustomTkinter**, designed with a clean and modern UI
 ❌ No Python installation required
 
 ---
+## ⚠ External Dependencies (Important)
+
+Some features require external tools that cannot be bundled into the EXE.
+
+### OCR (Text Extraction)
+Requires **Tesseract OCR**
+
+Download:
+https://github.com/UB-Mannheim/tesseract/wiki
+
+After installation, make sure `tesseract` is added to your system PATH.
+
+---
+
+### PDF to Image Conversion
+Requires **Poppler**
+
+Download:
+https://github.com/oschwartz10612/poppler-windows
+
+Extract and add the `bin` folder to your PATH.
+
+---
+
+The application will show a warning if these tools are missing.
 
 ### 🛠 Option 2: Run from Source (Developers)
 
